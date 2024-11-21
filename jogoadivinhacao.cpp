@@ -33,7 +33,7 @@ int main()
     bool nao_acertou = true;
     int tentativas = 0;
 
-    double pontos = 1000.0;
+    double pontos = 100.0;
 
     for(tentativas = 1;tentativas <= numero_de_tentativas;tentativas++){
         int chute;
